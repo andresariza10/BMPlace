@@ -1,7 +1,7 @@
 # BMPlace
 Producción (con foco en las Pymes)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/bmplace1.jpeg)
+![alt text](https://github.com/andresariza10/BMPlace/blob/master/bmplace1.jpeg)
 
 Título del Proyecto
 BMPLACE
