@@ -9,18 +9,15 @@ Producción (con foco en las Pymes)
 La persona que desee registrarse como comerciante o como usuario lo puede hacer, con el fin de dar a conocer su empresa y sus productos en el sector.
 
 **GUÍA DE USUARIO:**
-
 **Login**
 ![alt text](https://github.com/andresariza10/BMPlace/blob/master/bmplace1.jpeg)
-
 **Configuración**
 ![alt text](https://github.com/andresariza10/BMPlace/blob/master/bmplace2.jpeg)
-
 **Listado**
 ![alt text](https://github.com/andresariza10/BMPlace/blob/master/bmplace3.jpeg)
 
 **GUÍA DE INSTALACIÓN:** 
-Instalacion
+Instalación
 1. clonar el repositorio.
 2. ubicarse en la carpeta pertinente
 3. en el simbolo del sistema ejecutar el comando "$ npm install"
@@ -28,7 +25,7 @@ Instalacion
 5. ejecutar "$ npm run build" para compilar el proyecto y subirlo a produccion
 
 **CONSTRUIDO CON:**
- Vue.js + veutify
+Vue.js + veutify
 Firebase (base de datos)
 
 **AUTOR/ES:**
