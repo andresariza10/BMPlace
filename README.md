@@ -9,11 +9,15 @@ Producción (con foco en las Pymes)
 La persona que desee registrarse como comerciante o como usuario lo puede hacer, con el fin de dar a conocer su empresa y sus productos en el sector.
 
 **GUÍA DE USUARIO:**
+
 **Login**
+
 ![alt text](https://github.com/andresariza10/BMPlace/blob/master/bmplace1.jpeg)
 **Configuración**
+
 ![alt text](https://github.com/andresariza10/BMPlace/blob/master/bmplace2.jpeg)
 **Listado**
+
 ![alt text](https://github.com/andresariza10/BMPlace/blob/master/bmplace3.jpeg)
 
 **GUÍA DE INSTALACIÓN:** 
